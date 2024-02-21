@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "@types/prettyjson": "^0.0.33",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@cyber2024/pdf-parse-fixed": "^1.2.5",
+    "dotenv": "^16.4.5",
+    "llamaindex": "^0.1.10",
+    "openai": "^4.28.0"
+  }
+}
