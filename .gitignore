@@ -4,3 +4,5 @@ storage/
 .DS_Store/
 .next/
 packge-lock.json
+
+/**/.DS_Store
